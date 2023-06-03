@@ -160,7 +160,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
-![output]()
+![output](https://github.com/charansai0/Ex_8_CheckBox/blob/main/j81.png)
 
 
 
